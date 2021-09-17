@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/tr-pioneer.github.io/home-types/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/tr-pioneer.github.io/home-types/static/js/main.bcee20b6.chunk.js",
-    "main.js.map": "/tr-pioneer.github.io/home-types/static/js/main.bcee20b6.chunk.js.map",
-    "runtime-main.js": "/tr-pioneer.github.io/home-types/static/js/runtime-main.0438d851.js",
-    "runtime-main.js.map": "/tr-pioneer.github.io/home-types/static/js/runtime-main.0438d851.js.map",
-    "static/js/2.506f2046.chunk.js": "/tr-pioneer.github.io/home-types/static/js/2.506f2046.chunk.js",
-    "static/js/2.506f2046.chunk.js.map": "/tr-pioneer.github.io/home-types/static/js/2.506f2046.chunk.js.map",
-    "index.html": "/tr-pioneer.github.io/home-types/index.html",
-    "static/css/main.d87cbb72.chunk.css.map": "/tr-pioneer.github.io/home-types/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.506f2046.chunk.js.LICENSE.txt": "/tr-pioneer.github.io/home-types/static/js/2.506f2046.chunk.js.LICENSE.txt",
-    "static/media/apartment_type.364d76b0.jpg": "/tr-pioneer.github.io/home-types/static/media/apartment_type.364d76b0.jpg",
-    "static/media/condo_type.1f7afa02.jpg": "/tr-pioneer.github.io/home-types/static/media/condo_type.1f7afa02.jpg",
-    "static/media/coop_type.842591b7.jpg": "/tr-pioneer.github.io/home-types/static/media/coop_type.842591b7.jpg",
-    "static/media/single_family_type.43e848d7.jpg": "/tr-pioneer.github.io/home-types/static/media/single_family_type.43e848d7.jpg",
-    "static/media/tiny_house_type.d4808839.jpg": "/tr-pioneer.github.io/home-types/static/media/tiny_house_type.d4808839.jpg",
-    "static/media/townhome_type.a311afa0.jpg": "/tr-pioneer.github.io/home-types/static/media/townhome_type.a311afa0.jpg"
+    "main.css": "/tr-pioneer.github.io/jstutorial/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/tr-pioneer.github.io/jstutorial/static/js/main.2e4fc45f.chunk.js",
+    "main.js.map": "/tr-pioneer.github.io/jstutorial/static/js/main.2e4fc45f.chunk.js.map",
+    "runtime-main.js": "/tr-pioneer.github.io/jstutorial/static/js/runtime-main.88885343.js",
+    "runtime-main.js.map": "/tr-pioneer.github.io/jstutorial/static/js/runtime-main.88885343.js.map",
+    "static/js/2.36933573.chunk.js": "/tr-pioneer.github.io/jstutorial/static/js/2.36933573.chunk.js",
+    "static/js/2.36933573.chunk.js.map": "/tr-pioneer.github.io/jstutorial/static/js/2.36933573.chunk.js.map",
+    "index.html": "/tr-pioneer.github.io/jstutorial/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/tr-pioneer.github.io/jstutorial/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.36933573.chunk.js.LICENSE.txt": "/tr-pioneer.github.io/jstutorial/static/js/2.36933573.chunk.js.LICENSE.txt",
+    "static/media/apartment_type.364d76b0.jpg": "/tr-pioneer.github.io/jstutorial/static/media/apartment_type.364d76b0.jpg",
+    "static/media/condo_type.1f7afa02.jpg": "/tr-pioneer.github.io/jstutorial/static/media/condo_type.1f7afa02.jpg",
+    "static/media/coop_type.842591b7.jpg": "/tr-pioneer.github.io/jstutorial/static/media/coop_type.842591b7.jpg",
+    "static/media/single_family_type.43e848d7.jpg": "/tr-pioneer.github.io/jstutorial/static/media/single_family_type.43e848d7.jpg",
+    "static/media/tiny_house_type.d4808839.jpg": "/tr-pioneer.github.io/jstutorial/static/media/tiny_house_type.d4808839.jpg",
+    "static/media/townhome_type.a311afa0.jpg": "/tr-pioneer.github.io/jstutorial/static/media/townhome_type.a311afa0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0438d851.js",
-    "static/js/2.506f2046.chunk.js",
+    "static/js/runtime-main.88885343.js",
+    "static/js/2.36933573.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.bcee20b6.chunk.js"
+    "static/js/main.2e4fc45f.chunk.js"
   ]
 }
