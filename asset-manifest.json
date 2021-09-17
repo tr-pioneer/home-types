@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/home-types/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/home-types/static/js/main.2e4fc45f.chunk.js",
-    "main.js.map": "/home-types/static/js/main.2e4fc45f.chunk.js.map",
-    "runtime-main.js": "/home-types/static/js/runtime-main.ee418ccc.js",
-    "runtime-main.js.map": "/home-types/static/js/runtime-main.ee418ccc.js.map",
-    "static/js/2.fd08a60e.chunk.js": "/home-types/static/js/2.fd08a60e.chunk.js",
-    "static/js/2.fd08a60e.chunk.js.map": "/home-types/static/js/2.fd08a60e.chunk.js.map",
-    "index.html": "/home-types/index.html",
-    "static/css/main.d87cbb72.chunk.css.map": "/home-types/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.fd08a60e.chunk.js.LICENSE.txt": "/home-types/static/js/2.fd08a60e.chunk.js.LICENSE.txt",
-    "static/media/apartment_type.364d76b0.jpg": "/home-types/static/media/apartment_type.364d76b0.jpg",
-    "static/media/condo_type.1f7afa02.jpg": "/home-types/static/media/condo_type.1f7afa02.jpg",
-    "static/media/coop_type.842591b7.jpg": "/home-types/static/media/coop_type.842591b7.jpg",
-    "static/media/single_family_type.43e848d7.jpg": "/home-types/static/media/single_family_type.43e848d7.jpg",
-    "static/media/tiny_house_type.d4808839.jpg": "/home-types/static/media/tiny_house_type.d4808839.jpg",
-    "static/media/townhome_type.a311afa0.jpg": "/home-types/static/media/townhome_type.a311afa0.jpg"
+    "main.css": "/jstutorial/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/jstutorial/static/js/main.2e4fc45f.chunk.js",
+    "main.js.map": "/jstutorial/static/js/main.2e4fc45f.chunk.js.map",
+    "runtime-main.js": "/jstutorial/static/js/runtime-main.adbc9dca.js",
+    "runtime-main.js.map": "/jstutorial/static/js/runtime-main.adbc9dca.js.map",
+    "static/js/2.29cc90a4.chunk.js": "/jstutorial/static/js/2.29cc90a4.chunk.js",
+    "static/js/2.29cc90a4.chunk.js.map": "/jstutorial/static/js/2.29cc90a4.chunk.js.map",
+    "index.html": "/jstutorial/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/jstutorial/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.29cc90a4.chunk.js.LICENSE.txt": "/jstutorial/static/js/2.29cc90a4.chunk.js.LICENSE.txt",
+    "static/media/apartment_type.364d76b0.jpg": "/jstutorial/static/media/apartment_type.364d76b0.jpg",
+    "static/media/condo_type.1f7afa02.jpg": "/jstutorial/static/media/condo_type.1f7afa02.jpg",
+    "static/media/coop_type.842591b7.jpg": "/jstutorial/static/media/coop_type.842591b7.jpg",
+    "static/media/single_family_type.43e848d7.jpg": "/jstutorial/static/media/single_family_type.43e848d7.jpg",
+    "static/media/tiny_house_type.d4808839.jpg": "/jstutorial/static/media/tiny_house_type.d4808839.jpg",
+    "static/media/townhome_type.a311afa0.jpg": "/jstutorial/static/media/townhome_type.a311afa0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee418ccc.js",
-    "static/js/2.fd08a60e.chunk.js",
+    "static/js/runtime-main.adbc9dca.js",
+    "static/js/2.29cc90a4.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
     "static/js/main.2e4fc45f.chunk.js"
   ]
